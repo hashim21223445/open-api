@@ -20,7 +20,7 @@
     "analytics-plugin-ga": "^0.2.0",
     "ava": "^5.3.1",
     "cp-file": "^7.0.0",
-    "eslint": "^8.57.0",
+    "eslint": "^9.17.0",
     "eslint-config-prettier": "^8.10.0",
     "eslint-plugin-import": "^2.29.1",
     "eslint-plugin-n": "^15.7.0",
