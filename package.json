@@ -15,7 +15,7 @@
     "node": ">=14"
   },
   "devDependencies": {
-    "@redocly/cli": "^1.18.1",
+    "@redocly/cli": "^1.34.4",
     "analytics": "^0.2.0",
     "analytics-plugin-ga": "^0.2.0",
     "ava": "^5.3.1",
