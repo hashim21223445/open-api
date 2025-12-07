@@ -53,7 +53,7 @@ require (
 	github.com/spf13/viper v1.7.0 // indirect
 	github.com/subosito/gotenv v1.2.0 // indirect
 	github.com/toqueteos/webbrowser v1.2.0 // indirect
-	go.mongodb.org/mongo-driver v1.4.4 // indirect
+	go.mongodb.org/mongo-driver v1.5.1 // indirect
 	golang.org/x/mod v0.17.0 // indirect
 	golang.org/x/net v0.38.0 // indirect
 	golang.org/x/sync v0.12.0 // indirect
