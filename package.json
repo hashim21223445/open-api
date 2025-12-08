@@ -23,7 +23,7 @@
     "eslint": "^9.0.0",
     "eslint-config-prettier": "^8.10.0",
     "eslint-plugin-import": "^2.29.1",
-    "eslint-plugin-n": "^17.21.0",
+    "eslint-plugin-n": "^17.23.1",
     "eslint-plugin-prettier": "^4.2.1",
     "execa": "^2.1.0",
     "is-plain-obj": "^2.1.0",
