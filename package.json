@@ -18,7 +18,7 @@
     "@redocly/cli": "^2.11.1",
     "analytics": "^0.2.0",
     "analytics-plugin-ga": "^0.2.0",
-    "ava": "^5.3.1",
+    "ava": "^6.4.1",
     "cp-file": "^7.0.0",
     "eslint": "^9.0.0",
     "eslint-config-prettier": "^8.10.0",
